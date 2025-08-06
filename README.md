@@ -10,10 +10,10 @@ em seguida os dados são cadastrados na database local!
 
 <table align="center">
     <tr>
-<td><img alt="Contribuidores" src="https://img.shields.io/github/contributors/Wesleykfg/Challenge-One01-Conversor-de-moedas?style=for-the-badge"/></td>
-<td><img alt="Tamanho" src="https://img.shields.io/github/languages/code-size/Wesleykfg/Challenge-One01-Conversor-de-moedas?style=for-the-badge"/></td>
-<td><img alt="QuantidadeDeItens" src="https://img.shields.io/github/directory-file-count/Wesleykfg/Challenge-One01-Conversor-de-moedas?style=for-the-badge"/></td>
-<td><img alt="Linguagens" src="https://img.shields.io/github/languages/count/Wesleykfg/Challenge-One01-Conversor-de-moedas?style=for-the-badge"/></td>
+<td><img alt="Contribuidores" src="https://img.shields.io/github/contributors/Wesleykfg/Challenge-One-LiterAlura?style=for-the-badge"/></td>
+<td><img alt="Tamanho" src="https://img.shields.io/github/languages/code-size/Wesleykfg/Challenge-One-LiterAlura?style=for-the-badge"/></td>
+<td><img alt="QuantidadeDeItens" src="https://img.shields.io/github/directory-file-count/Wesleykfg/Challenge-One-LiterAlura?style=for-the-badge"/></td>
+<td><img alt="Linguagens" src="https://img.shields.io/github/languages/count/Wesleykfg/Challenge-One-LiterAlura?style=for-the-badge"/></td>
     </tr>
 </table>
 
